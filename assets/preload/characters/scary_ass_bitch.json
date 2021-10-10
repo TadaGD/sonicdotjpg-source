@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				255,
+				-350
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "scary ass down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				228,
+				-96
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "scary ass idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				364,
+				-194
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "scary ass left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				271,
+				-263
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "scary ass right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				259,
+				-285
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "scary ass up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/scary_ass_bitch_assets",
+	"position": [
+		360,
+		180
+	],
+	"healthicon": "shitshitshit",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="scary_ass_bitch_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="scary ass down0000" x="0" y="0" width="371" height="191"/>
+	<SubTexture name="scary ass down0001" x="371" y="0" width="371" height="163" frameX="0" frameY="-28" frameWidth="371" frameHeight="191"/>
+	<SubTexture name="scary ass down0002" x="742" y="0" width="371" height="120" frameX="0" frameY="-71" frameWidth="371" frameHeight="191"/>
+	<SubTexture name="scary ass down0003" x="1113" y="0" width="371" height="128" frameX="0" frameY="-63" frameWidth="371" frameHeight="191"/>
+	<SubTexture name="scary ass down0004" x="1484" y="0" width="371" height="134" frameX="0" frameY="-57" frameWidth="371" frameHeight="191"/>
+	<SubTexture name="scary ass down0005" x="1484" y="0" width="371" height="134" frameX="0" frameY="-57" frameWidth="371" frameHeight="191"/>
+	<SubTexture name="scary ass down0006" x="1484" y="0" width="371" height="134" frameX="0" frameY="-57" frameWidth="371" frameHeight="191"/>
+	<SubTexture name="scary ass down0007" x="1484" y="0" width="371" height="134" frameX="0" frameY="-57" frameWidth="371" frameHeight="191"/>
+	<SubTexture name="scary ass down0008" x="1484" y="0" width="371" height="134" frameX="0" frameY="-57" frameWidth="371" frameHeight="191"/>
+	<SubTexture name="scary ass down0009" x="1484" y="0" width="371" height="134" frameX="0" frameY="-57" frameWidth="371" frameHeight="191"/>
+	<SubTexture name="scary ass down0010" x="1484" y="0" width="371" height="134" frameX="0" frameY="-57" frameWidth="371" frameHeight="191"/>
+	<SubTexture name="scary ass down0011" x="1484" y="0" width="371" height="134" frameX="0" frameY="-57" frameWidth="371" frameHeight="191"/>
+	<SubTexture name="scary ass down0012" x="1484" y="0" width="371" height="134" frameX="0" frameY="-57" frameWidth="371" frameHeight="191"/>
+	<SubTexture name="scary ass down0013" x="1484" y="0" width="371" height="134" frameX="0" frameY="-57" frameWidth="371" frameHeight="191"/>
+	<SubTexture name="scary ass down0014" x="1484" y="0" width="371" height="134" frameX="0" frameY="-57" frameWidth="371" frameHeight="191"/>
+	<SubTexture name="scary ass down0015" x="1484" y="0" width="371" height="134" frameX="0" frameY="-57" frameWidth="371" frameHeight="191"/>
+	<SubTexture name="scary ass down0016" x="1484" y="0" width="371" height="134" frameX="0" frameY="-57" frameWidth="371" frameHeight="191"/>
+	<SubTexture name="scary ass down0017" x="1484" y="0" width="371" height="134" frameX="0" frameY="-57" frameWidth="371" frameHeight="191"/>
+	<SubTexture name="scary ass down0018" x="1484" y="0" width="371" height="134" frameX="0" frameY="-57" frameWidth="371" frameHeight="191"/>
+	<SubTexture name="scary ass down0019" x="1484" y="0" width="371" height="134" frameX="0" frameY="-57" frameWidth="371" frameHeight="191"/>
+	<SubTexture name="scary ass idle0000" x="0" y="191" width="300" height="394" frameX="0" frameY="-52" frameWidth="300" frameHeight="446"/>
+	<SubTexture name="scary ass idle0001" x="0" y="191" width="300" height="394" frameX="0" frameY="-52" frameWidth="300" frameHeight="446"/>
+	<SubTexture name="scary ass idle0002" x="300" y="191" width="277" height="412" frameX="0" frameY="-34" frameWidth="300" frameHeight="446"/>
+	<SubTexture name="scary ass idle0003" x="300" y="191" width="277" height="412" frameX="0" frameY="-34" frameWidth="300" frameHeight="446"/>
+	<SubTexture name="scary ass idle0004" x="577" y="191" width="253" height="446" frameX="0" frameY="0" frameWidth="300" frameHeight="446"/>
+	<SubTexture name="scary ass idle0005" x="577" y="191" width="253" height="446" frameX="0" frameY="0" frameWidth="300" frameHeight="446"/>
+	<SubTexture name="scary ass idle0006" x="577" y="191" width="253" height="446" frameX="0" frameY="0" frameWidth="300" frameHeight="446"/>
+	<SubTexture name="scary ass idle0007" x="577" y="191" width="253" height="446" frameX="0" frameY="0" frameWidth="300" frameHeight="446"/>
+	<SubTexture name="scary ass idle0008" x="577" y="191" width="253" height="446" frameX="0" frameY="0" frameWidth="300" frameHeight="446"/>
+	<SubTexture name="scary ass idle0009" x="577" y="191" width="253" height="446" frameX="0" frameY="0" frameWidth="300" frameHeight="446"/>
+	<SubTexture name="scary ass idle0010" x="577" y="191" width="253" height="446" frameX="0" frameY="0" frameWidth="300" frameHeight="446"/>
+	<SubTexture name="scary ass idle0011" x="577" y="191" width="253" height="446" frameX="0" frameY="0" frameWidth="300" frameHeight="446"/>
+	<SubTexture name="scary ass idle0012" x="577" y="191" width="253" height="446" frameX="0" frameY="0" frameWidth="300" frameHeight="446"/>
+	<SubTexture name="scary ass idle0013" x="577" y="191" width="253" height="446" frameX="0" frameY="0" frameWidth="300" frameHeight="446"/>
+	<SubTexture name="scary ass left0000" x="830" y="191" width="383" height="355" frameX="-76" frameY="0" frameWidth="504" frameHeight="355"/>
+	<SubTexture name="scary ass left0001" x="1213" y="191" width="473" height="355" frameX="-31" frameY="0" frameWidth="504" frameHeight="355"/>
+	<SubTexture name="scary ass left0002" x="0" y="637" width="504" height="355"/>
+	<SubTexture name="scary ass left0003" x="504" y="637" width="492" height="355" frameX="-12" frameY="0" frameWidth="504" frameHeight="355"/>
+	<SubTexture name="scary ass left0004" x="504" y="637" width="492" height="355" frameX="-12" frameY="0" frameWidth="504" frameHeight="355"/>
+	<SubTexture name="scary ass left0005" x="504" y="637" width="492" height="355" frameX="-12" frameY="0" frameWidth="504" frameHeight="355"/>
+	<SubTexture name="scary ass left0006" x="504" y="637" width="492" height="355" frameX="-12" frameY="0" frameWidth="504" frameHeight="355"/>
+	<SubTexture name="scary ass left0007" x="504" y="637" width="492" height="355" frameX="-12" frameY="0" frameWidth="504" frameHeight="355"/>
+	<SubTexture name="scary ass left0008" x="504" y="637" width="492" height="355" frameX="-12" frameY="0" frameWidth="504" frameHeight="355"/>
+	<SubTexture name="scary ass left0009" x="504" y="637" width="492" height="355" frameX="-12" frameY="0" frameWidth="504" frameHeight="355"/>
+	<SubTexture name="scary ass left0010" x="504" y="637" width="492" height="355" frameX="-12" frameY="0" frameWidth="504" frameHeight="355"/>
+	<SubTexture name="scary ass left0011" x="504" y="637" width="492" height="355" frameX="-12" frameY="0" frameWidth="504" frameHeight="355"/>
+	<SubTexture name="scary ass left0012" x="504" y="637" width="492" height="355" frameX="-12" frameY="0" frameWidth="504" frameHeight="355"/>
+	<SubTexture name="scary ass left0013" x="504" y="637" width="492" height="355" frameX="-12" frameY="0" frameWidth="504" frameHeight="355"/>
+	<SubTexture name="scary ass left0014" x="504" y="637" width="492" height="355" frameX="-12" frameY="0" frameWidth="504" frameHeight="355"/>
+	<SubTexture name="scary ass left0015" x="504" y="637" width="492" height="355" frameX="-12" frameY="0" frameWidth="504" frameHeight="355"/>
+	<SubTexture name="scary ass left0016" x="504" y="637" width="492" height="355" frameX="-12" frameY="0" frameWidth="504" frameHeight="355"/>
+	<SubTexture name="scary ass left0017" x="504" y="637" width="492" height="355" frameX="-12" frameY="0" frameWidth="504" frameHeight="355"/>
+	<SubTexture name="scary ass left0018" x="504" y="637" width="492" height="355" frameX="-12" frameY="0" frameWidth="504" frameHeight="355"/>
+	<SubTexture name="scary ass left0019" x="504" y="637" width="492" height="355" frameX="-12" frameY="0" frameWidth="504" frameHeight="355"/>
+	<SubTexture name="scary ass right0000" x="996" y="637" width="423" height="280" frameX="0" frameY="0" frameWidth="483" frameHeight="280"/>
+	<SubTexture name="scary ass right0001" x="1419" y="637" width="462" height="280" frameX="0" frameY="0" frameWidth="483" frameHeight="280"/>
+	<SubTexture name="scary ass right0002" x="0" y="992" width="483" height="280"/>
+	<SubTexture name="scary ass right0003" x="483" y="992" width="479" height="280" frameX="0" frameY="0" frameWidth="483" frameHeight="280"/>
+	<SubTexture name="scary ass right0004" x="962" y="992" width="477" height="280" frameX="0" frameY="0" frameWidth="483" frameHeight="280"/>
+	<SubTexture name="scary ass right0005" x="962" y="992" width="477" height="280" frameX="0" frameY="0" frameWidth="483" frameHeight="280"/>
+	<SubTexture name="scary ass right0006" x="962" y="992" width="477" height="280" frameX="0" frameY="0" frameWidth="483" frameHeight="280"/>
+	<SubTexture name="scary ass right0007" x="962" y="992" width="477" height="280" frameX="0" frameY="0" frameWidth="483" frameHeight="280"/>
+	<SubTexture name="scary ass right0008" x="962" y="992" width="477" height="280" frameX="0" frameY="0" frameWidth="483" frameHeight="280"/>
+	<SubTexture name="scary ass right0009" x="962" y="992" width="477" height="280" frameX="0" frameY="0" frameWidth="483" frameHeight="280"/>
+	<SubTexture name="scary ass right0010" x="962" y="992" width="477" height="280" frameX="0" frameY="0" frameWidth="483" frameHeight="280"/>
+	<SubTexture name="scary ass right0011" x="962" y="992" width="477" height="280" frameX="0" frameY="0" frameWidth="483" frameHeight="280"/>
+	<SubTexture name="scary ass right0012" x="962" y="992" width="477" height="280" frameX="0" frameY="0" frameWidth="483" frameHeight="280"/>
+	<SubTexture name="scary ass right0013" x="962" y="992" width="477" height="280" frameX="0" frameY="0" frameWidth="483" frameHeight="280"/>
+	<SubTexture name="scary ass right0014" x="962" y="992" width="477" height="280" frameX="0" frameY="0" frameWidth="483" frameHeight="280"/>
+	<SubTexture name="scary ass right0015" x="962" y="992" width="477" height="280" frameX="0" frameY="0" frameWidth="483" frameHeight="280"/>
+	<SubTexture name="scary ass right0016" x="962" y="992" width="477" height="280" frameX="0" frameY="0" frameWidth="483" frameHeight="280"/>
+	<SubTexture name="scary ass right0017" x="962" y="992" width="477" height="280" frameX="0" frameY="0" frameWidth="483" frameHeight="280"/>
+	<SubTexture name="scary ass right0018" x="962" y="992" width="477" height="280" frameX="0" frameY="0" frameWidth="483" frameHeight="280"/>
+	<SubTexture name="scary ass right0019" x="962" y="992" width="477" height="280" frameX="0" frameY="0" frameWidth="483" frameHeight="280"/>
+	<SubTexture name="scary ass up0000" x="1439" y="992" width="369" height="226" frameX="0" frameY="-31" frameWidth="369" frameHeight="257"/>
+	<SubTexture name="scary ass up0001" x="0" y="1272" width="369" height="249" frameX="0" frameY="-8" frameWidth="369" frameHeight="257"/>
+	<SubTexture name="scary ass up0002" x="369" y="1272" width="369" height="257"/>
+	<SubTexture name="scary ass up0003" x="738" y="1272" width="369" height="254" frameX="0" frameY="-3" frameWidth="369" frameHeight="257"/>
+	<SubTexture name="scary ass up0004" x="0" y="1272" width="369" height="249" frameX="0" frameY="-8" frameWidth="369" frameHeight="257"/>
+	<SubTexture name="scary ass up0005" x="0" y="1272" width="369" height="249" frameX="0" frameY="-8" frameWidth="369" frameHeight="257"/>
+	<SubTexture name="scary ass up0006" x="0" y="1272" width="369" height="249" frameX="0" frameY="-8" frameWidth="369" frameHeight="257"/>
+	<SubTexture name="scary ass up0007" x="0" y="1272" width="369" height="249" frameX="0" frameY="-8" frameWidth="369" frameHeight="257"/>
+	<SubTexture name="scary ass up0008" x="0" y="1272" width="369" height="249" frameX="0" frameY="-8" frameWidth="369" frameHeight="257"/>
+	<SubTexture name="scary ass up0009" x="0" y="1272" width="369" height="249" frameX="0" frameY="-8" frameWidth="369" frameHeight="257"/>
+	<SubTexture name="scary ass up0010" x="0" y="1272" width="369" height="249" frameX="0" frameY="-8" frameWidth="369" frameHeight="257"/>
+	<SubTexture name="scary ass up0011" x="0" y="1272" width="369" height="249" frameX="0" frameY="-8" frameWidth="369" frameHeight="257"/>
+	<SubTexture name="scary ass up0012" x="0" y="1272" width="369" height="249" frameX="0" frameY="-8" frameWidth="369" frameHeight="257"/>
+	<SubTexture name="scary ass up0013" x="0" y="1272" width="369" height="249" frameX="0" frameY="-8" frameWidth="369" frameHeight="257"/>
+	<SubTexture name="scary ass up0014" x="0" y="1272" width="369" height="249" frameX="0" frameY="-8" frameWidth="369" frameHeight="257"/>
+	<SubTexture name="scary ass up0015" x="0" y="1272" width="369" height="249" frameX="0" frameY="-8" frameWidth="369" frameHeight="257"/>
+	<SubTexture name="scary ass up0016" x="0" y="1272" width="369" height="249" frameX="0" frameY="-8" frameWidth="369" frameHeight="257"/>
+	<SubTexture name="scary ass up0017" x="0" y="1272" width="369" height="249" frameX="0" frameY="-8" frameWidth="369" frameHeight="257"/>
+	<SubTexture name="scary ass up0018" x="0" y="1272" width="369" height="249" frameX="0" frameY="-8" frameWidth="369" frameHeight="257"/>
+	<SubTexture name="scary ass up0019" x="0" y="1272" width="369" height="249" frameX="0" frameY="-8" frameWidth="369" frameHeight="257"/>
+</TextureAtlas>

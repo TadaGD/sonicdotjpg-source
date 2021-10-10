@@ -1,0 +1,10 @@
+{
+	"idle_anim": "speed",
+	"image": "Menu_soni",
+	"position": [
+		82,
+		-78
+	],
+	"scale": 1,
+	"confirm_anim": "M Dad Idle"
+}

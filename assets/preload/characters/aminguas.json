@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				0
+			],
+			"anim": "idle",
+			"fps": 25,
+			"name": "dumbass idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-143
+			],
+			"anim": "singLEFT",
+			"fps": 25,
+			"name": "dumbass left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-170
+			],
+			"anim": "singRIGHT",
+			"fps": 25,
+			"name": "dumbass right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-220
+			],
+			"anim": "singDOWN",
+			"fps": 25,
+			"name": "dumbass down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-39
+			],
+			"anim": "singUP",
+			"fps": 25,
+			"name": "dumbass up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/aminguas_assets",
+	"position": [
+		90,
+		290
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		42
+	],
+	"camera_position": [
+		-110,
+		230
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

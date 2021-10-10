@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Jpeg",
+			"soni",
+			[
+				75,
+				45,
+				142
+			]
+		],
+		[
+			"Quality",
+			"soni",
+			[
+				75,
+				45,
+				142
+			]
+		],
+		[
+			"Obligatory",
+			"shitshitshit",
+			[
+				255,
+				0,
+				113
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "soni",
+	"weekCharacters": [
+		"soni",
+		"bf",
+		"gf"
+	],
+	"storyName": "HOLY SHIT IS THAT SONIC",
+	"weekName": "Sonic",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

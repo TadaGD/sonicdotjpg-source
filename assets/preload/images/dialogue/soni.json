@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		150,
+		180
+	],
+	"scale": 1.9,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "sonic talk loop",
+			"idle_name": "sonic talk loop"
+		}
+	],
+	"image": "soni_Dialogue"
+}

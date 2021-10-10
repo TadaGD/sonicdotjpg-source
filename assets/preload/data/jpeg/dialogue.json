@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "soni",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hi how you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "soni",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im so cool"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "why"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "soni",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "why not"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "soni",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "shut the fuck up"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap battle"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "soni",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok"
+		}
+	]
+}
