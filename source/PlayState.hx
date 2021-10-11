@@ -608,6 +608,17 @@ class PlayState extends MusicBeatState
 					bg.antialiasing = false;
 					add(bg);
 				}
+				case 'pixelbackground': //Week 6 - Senpai, Roses
+				GameOverSubstate.deathSoundName = 'fnf_loss_sfx-pixel';
+				GameOverSubstate.loopSoundName = 'gameOver-pixel';
+				GameOverSubstate.endSoundName = 'gameOverEnd-pixel';
+				GameOverSubstate.characterName = 'bf-pixel-dead';
+
+				var pixelbackground:BGSprite = new BGSprite('pixelbackground', 0, 0, 0.1, 0.1);
+				add(pixelbackground);
+				pixelbackground.antialiasing = false;
+
+				var repositionShit = -200;
 		}
 		
 		add(gfGroup);
